@@ -15,14 +15,11 @@ project/
 └── .env.example          # Plantilla de variables de entorno
 
 ## 🧪 Pruebas de la API
-*(Aquí irán tus capturas)*
-- **Prueba Válida 1:** ![Prueba Válida 1](docs/screenshots/test-valid-1.png)
-- **Prueba Válida 2 (IA):** ![Prueba Válida 2](docs/screenshots/test-valid-2.png)
-- **Prueba Inválida:** ![Prueba Inválida](docs/screenshots/test-invalid-1.png)
+https://github.com/ProyectosWeb13/comment_analyzer_api/raw/main/docs/screenshots/test-invalid-1.PNG
 
 ## 🎥 Video de Funcionamiento
 El video detallando el funcionamiento completo de la API se encuentra disponible en:
-[PEGA AQUÍ TU ENLACE DEL VIDEO]
+https://drive.google.com/drive/folders/1UqMxQcD2ESrvMbCku8purapCE7W40jri?usp=sharing
 
 ## 📊 Evidencia de Base de Datos (Supabase)
 ![Tabla en Supabase](docs/screenshots/supabase-table.png)
