@@ -2,8 +2,8 @@
 
 👥 Integrantes del Proyecto
 Guillermo Gonzalez Mattos,
-Andres Jimenes,
-Andres Felipe,
+Andrés Jiménes,
+Andrés Felipe Márques,
 
 API REST desarrollada con **FastAPI**, **Supabase** y **Google Gemini AI** para el análisis de sentimiento en comentarios.
 
