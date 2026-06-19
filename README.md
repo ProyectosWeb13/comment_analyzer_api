@@ -16,6 +16,7 @@ project/
 
 ## 🧪 Pruebas de la API
 https://github.com/ProyectosWeb13/comment_analyzer_api/raw/main/docs/screenshots/test-invalid-1.PNG
+- **Prueba Válida 1:** [Ver captura aquí](docs/screenshots/test-valid-1.png)
 
 ## 🎥 Video de Funcionamiento
 El video detallando el funcionamiento completo de la API se encuentra disponible en:
