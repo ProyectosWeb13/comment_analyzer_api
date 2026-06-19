@@ -1,9 +1,9 @@
 # API de Análisis de Comentarios - Proyecto Final Web II
 
 👥 Integrantes del Proyecto
-Guillermo Gonzalez Mattos
-Andres Jimenes
-Andres Felipe
+Guillermo Gonzalez Mattos,
+Andres Jimenes,
+Andres Felipe,
 
 API REST desarrollada con **FastAPI**, **Supabase** y **Google Gemini AI** para el análisis de sentimiento en comentarios.
 
